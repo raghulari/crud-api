@@ -1,6 +1,6 @@
 # CRUD REST API Backend
 
-This is a simple **CRUD (Create, Read, Update, Delete) REST API** built using **Node.js, Express.js, and MongoDB**.  
+This is a **CRUD REST API** built using **Node.js, Express.js, and MongoDB**.  
 It demonstrates how to build a backend-only API for managing resources.
 
 ---
