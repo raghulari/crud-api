@@ -18,7 +18,3 @@ It demonstrates how to build a backend-only API for managing resources.
 - **Node.js**
 - **Express.js**
 - **MongoDB (Mongoose)**
-
----
-
-## 📂 Project Structure
