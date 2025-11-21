@@ -2,6 +2,8 @@ import express from "express";
 import mongoose from "mongoose";
 import Product from "./models/product.models.js";
 import productRoute from "./routes/product.route.js";
+import authRoute from "./routes/auth.route.js";
+
 const app = express();
 import dotenv from "dotenv";
 dotenv.config();
@@ -14,6 +16,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 //routes
+app.use("/api/auth", authRoute);
 app.use("/api/products", productRoute);
 
 
