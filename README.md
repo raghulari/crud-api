@@ -26,7 +26,7 @@ This architecture ensures a clear separation of concerns and supports scalabilit
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 - Node.js  
 - Express.js  
