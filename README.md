@@ -1,4 +1,4 @@
-# REST API Backend with JWT Authentication
+# REST API with JWT Authentication
 
 This repository contains a modular and production-ready REST API backend implemented with Node.js, Express.js, and MongoDB (via Mongoose). The backend provides complete product management functionality (CRUD) and a secure authentication workflow powered by JSON Web Tokens (JWT). Sensitive configuration values, including database credentials and signing secrets, are stored in environment variables to ensure proper security practices.
 
